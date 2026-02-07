@@ -4,3 +4,6 @@
 규칙 비난금지,파일 수정 금지,욕설 금지, 문제로 비하금지,저장소 포크 금지
 
 영어/English:Please do not create issues, modify files, or fork repositories. 
+
+저를 모른다면 소개 페이지로 가세요
+If you don't know me, go to my introduction page. 
